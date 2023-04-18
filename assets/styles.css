@@ -237,3 +237,27 @@ p
     height: 10px;
     background: #f0f0f0;
 }
+
+.skills .box .percent div
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #0f5747;
+}
+
+.contactInfo .interest ul
+{
+    position: relative;
+}
+
+.contactInfo .interest ul li
+{
+    list-style: none;
+    position: relative;
+    margin: 10px 0;
+    cursor: pointer;
+    color: #f0f0f0;
+    font-weight: 500;
+}
