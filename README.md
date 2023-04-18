@@ -1,7 +1,5 @@
 ## Charles B. Glasgow Resume
 
-#
-
 **Here you can find the repository for my resume website.**
 
 #
@@ -37,7 +35,7 @@
 
 #### Author
 
-- **Breven Glasgow**
+- **Charles Breven Glasgow**
 
   - [![Github]][breven-url]
 
